@@ -1,0 +1,48 @@
+C:\Users\Carlos Mario\Documents\Practicas y Proyectos C#\RompecabezaN2016Consola\RompecabezaN2016Consola\bin\Debug\RompecabezaN2016Consola.exe.config
+C:\Users\Carlos Mario\Documents\Practicas y Proyectos C#\RompecabezaN2016Consola\RompecabezaN2016Consola\bin\Debug\RompecabezaN2016Consola.exe
+C:\Users\Carlos Mario\Documents\Practicas y Proyectos C#\RompecabezaN2016Consola\RompecabezaN2016Consola\bin\Debug\RompecabezaN2016Consola.pdb
+C:\Users\Carlos Mario\Documents\Practicas y Proyectos C#\RompecabezaN2016Consola\RompecabezaN2016Consola\obj\Debug\RompecabezaN2016Consola.exe
+C:\Users\Carlos Mario\Documents\Practicas y Proyectos C#\RompecabezaN2016Consola\RompecabezaN2016Consola\obj\Debug\RompecabezaN2016Consola.pdb
+C:\Users\Carlos Mario\Documents\Practicas y Proyectos C#\RompecabezaN2016Consola\RompecabezaN2016Consola\obj\Debug\RompecabezaN2016Consola.csprojResolveAssemblyReference.cache
+C:\Users\Carlos Mario\Documents\Documentos de la U\Tercer semestre\Analisis de Algoritmos\Proyecto 2\RompecabezaN2016Consola\RompecabezaN2016Consola\bin\Debug\RompecabezaN2016Consola.exe.config
+C:\Users\Carlos Mario\Documents\Documentos de la U\Tercer semestre\Analisis de Algoritmos\Proyecto 2\RompecabezaN2016Consola\RompecabezaN2016Consola\obj\Debug\RompecabezaN2016Consola.exe
+C:\Users\Carlos Mario\Documents\Documentos de la U\Tercer semestre\Analisis de Algoritmos\Proyecto 2\RompecabezaN2016Consola\RompecabezaN2016Consola\obj\Debug\RompecabezaN2016Consola.pdb
+C:\Users\Carlos Mario\Documents\Documentos de la U\Tercer semestre\Analisis de Algoritmos\Proyecto 2\RompecabezaN2016Consola\RompecabezaN2016Consola\bin\Debug\RompecabezaN2016Consola.exe
+C:\Users\Carlos Mario\Documents\Documentos de la U\Tercer semestre\Analisis de Algoritmos\Proyecto 2\RompecabezaN2016Consola\RompecabezaN2016Consola\bin\Debug\RompecabezaN2016Consola.pdb
+C:\Users\Carlos Mario\Documents\Documentos de la U\Tercer semestre\Analisis de Algoritmos\Proyecto 2\RompecabezaN2016Consola\RompecabezaN2016Consola\obj\Debug\RompecabezaN2016Consola.csprojResolveAssemblyReference.cache
+C:\Users\LADY\Documents\III SEMESTRE\RompecabezaN2016Consola\RompecabezaN2016Consola\bin\Debug\RompecabezaN2016Consola.exe.config
+C:\Users\LADY\Documents\III SEMESTRE\RompecabezaN2016Consola\RompecabezaN2016Consola\obj\Debug\RompecabezaN2016Consola.exe
+C:\Users\LADY\Documents\III SEMESTRE\RompecabezaN2016Consola\RompecabezaN2016Consola\obj\Debug\RompecabezaN2016Consola.pdb
+C:\Users\LADY\Documents\III SEMESTRE\RompecabezaN2016Consola\RompecabezaN2016Consola\bin\Debug\RompecabezaN2016Consola.exe
+C:\Users\LADY\Documents\III SEMESTRE\RompecabezaN2016Consola\RompecabezaN2016Consola\bin\Debug\RompecabezaN2016Consola.pdb
+C:\Users\LADY\Documents\III SEMESTRE\RompecabezaN2016Consola\RompecabezaN2016Consola\obj\Debug\RompecabezaN2016Consola.csprojResolveAssemblyReference.cache
+C:\Users\LADY\Documents\III SEMESTRE\Analisis de Algoritmos\PROYECTO2\RompecabezaN2016Consola\RompecabezaN2016Consola\bin\Debug\RompecabezaN2016Consola.exe.config
+C:\Users\LADY\Documents\III SEMESTRE\Analisis de Algoritmos\PROYECTO2\RompecabezaN2016Consola\RompecabezaN2016Consola\obj\Debug\RompecabezaN2016Consola.exe
+C:\Users\LADY\Documents\III SEMESTRE\Analisis de Algoritmos\PROYECTO2\RompecabezaN2016Consola\RompecabezaN2016Consola\obj\Debug\RompecabezaN2016Consola.pdb
+C:\Users\LADY\Documents\III SEMESTRE\Analisis de Algoritmos\PROYECTO2\RompecabezaN2016Consola\RompecabezaN2016Consola\bin\Debug\RompecabezaN2016Consola.exe
+C:\Users\LADY\Documents\III SEMESTRE\Analisis de Algoritmos\PROYECTO2\RompecabezaN2016Consola\RompecabezaN2016Consola\bin\Debug\RompecabezaN2016Consola.pdb
+C:\Users\LADY\Documents\III SEMESTRE\Analisis de Algoritmos\PROYECTO2\RompecabezaN2016Consola\RompecabezaN2016Consola\obj\Debug\RompecabezaN2016Consola.csprojResolveAssemblyReference.cache
+C:\Users\Esteban Blanco\Documents\III Semestre\Análisis de Algoritmos\Proyecto 2 - Rompecabezas\RompecabezaN2016Consola\RompecabezaN2016Consola\bin\Debug\RompecabezaN2016Consola.exe.config
+C:\Users\Esteban Blanco\Documents\III Semestre\Análisis de Algoritmos\Proyecto 2 - Rompecabezas\RompecabezaN2016Consola\RompecabezaN2016Consola\obj\Debug\RompecabezaN2016Consola.exe
+C:\Users\Esteban Blanco\Documents\III Semestre\Análisis de Algoritmos\Proyecto 2 - Rompecabezas\RompecabezaN2016Consola\RompecabezaN2016Consola\obj\Debug\RompecabezaN2016Consola.pdb
+C:\Users\Esteban Blanco\Documents\III Semestre\Análisis de Algoritmos\Proyecto 2 - Rompecabezas\RompecabezaN2016Consola\RompecabezaN2016Consola\bin\Debug\RompecabezaN2016Consola.exe
+C:\Users\Esteban Blanco\Documents\III Semestre\Análisis de Algoritmos\Proyecto 2 - Rompecabezas\RompecabezaN2016Consola\RompecabezaN2016Consola\bin\Debug\RompecabezaN2016Consola.pdb
+C:\Users\Esteban Blanco\Documents\III Semestre\Análisis de Algoritmos\Proyecto 2 - Rompecabezas\RompecabezaN2016Consola\RompecabezaN2016Consola\obj\Debug\RompecabezaN2016Consola.csprojResolveAssemblyReference.cache
+C:\Users\Carlos Mario\Desktop\RompecabezaN2016Consola\RompecabezaN2016Consola\bin\Debug\RompecabezaN2016Consola.exe.config
+C:\Users\Carlos Mario\Desktop\RompecabezaN2016Consola\RompecabezaN2016Consola\obj\Debug\RompecabezaN2016Consola.exe
+C:\Users\Carlos Mario\Desktop\RompecabezaN2016Consola\RompecabezaN2016Consola\obj\Debug\RompecabezaN2016Consola.pdb
+C:\Users\Carlos Mario\Desktop\RompecabezaN2016Consola\RompecabezaN2016Consola\bin\Debug\RompecabezaN2016Consola.exe
+C:\Users\Carlos Mario\Desktop\RompecabezaN2016Consola\RompecabezaN2016Consola\bin\Debug\RompecabezaN2016Consola.pdb
+C:\Users\Carlos Mario\Desktop\RompecabezaN2016Consola\RompecabezaN2016Consola\obj\Debug\RompecabezaN2016Consola.csprojResolveAssemblyReference.cache
+C:\Users\Carlos Mario\Documents\Documentos de la U\Tercer semestre\Analisis de Algoritmos\Proyecto 2\Trabajando\RompecabezaN2016Consola\bin\Debug\RompecabezaN2016Consola.exe.config
+C:\Users\Carlos Mario\Documents\Documentos de la U\Tercer semestre\Analisis de Algoritmos\Proyecto 2\Trabajando\RompecabezaN2016Consola\obj\Debug\RompecabezaN2016Consola.exe
+C:\Users\Carlos Mario\Documents\Documentos de la U\Tercer semestre\Analisis de Algoritmos\Proyecto 2\Trabajando\RompecabezaN2016Consola\obj\Debug\RompecabezaN2016Consola.pdb
+C:\Users\Carlos Mario\Documents\Documentos de la U\Tercer semestre\Analisis de Algoritmos\Proyecto 2\Trabajando\RompecabezaN2016Consola\bin\Debug\RompecabezaN2016Consola.exe
+C:\Users\Carlos Mario\Documents\Documentos de la U\Tercer semestre\Analisis de Algoritmos\Proyecto 2\Trabajando\RompecabezaN2016Consola\bin\Debug\RompecabezaN2016Consola.pdb
+C:\Users\Carlos Mario\Documents\Documentos de la U\Tercer semestre\Analisis de Algoritmos\Proyecto 2\Trabajando\RompecabezaN2016Consola\obj\Debug\RompecabezaN2016Consola.csprojResolveAssemblyReference.cache
+C:\Users\Esteban Blanco\Documents\III Semestre\Análisis de Algoritmos\Proyecto 2 - Rompecabezas\Trabajando\RompecabezaN2016Consola\bin\Debug\RompecabezaN2016Consola.exe.config
+C:\Users\Esteban Blanco\Documents\III Semestre\Análisis de Algoritmos\Proyecto 2 - Rompecabezas\Trabajando\RompecabezaN2016Consola\obj\Debug\RompecabezaN2016Consola.exe
+C:\Users\Esteban Blanco\Documents\III Semestre\Análisis de Algoritmos\Proyecto 2 - Rompecabezas\Trabajando\RompecabezaN2016Consola\obj\Debug\RompecabezaN2016Consola.pdb
+C:\Users\Esteban Blanco\Documents\III Semestre\Análisis de Algoritmos\Proyecto 2 - Rompecabezas\Trabajando\RompecabezaN2016Consola\bin\Debug\RompecabezaN2016Consola.exe
+C:\Users\Esteban Blanco\Documents\III Semestre\Análisis de Algoritmos\Proyecto 2 - Rompecabezas\Trabajando\RompecabezaN2016Consola\bin\Debug\RompecabezaN2016Consola.pdb
+C:\Users\Esteban Blanco\Documents\III Semestre\Análisis de Algoritmos\Proyecto 2 - Rompecabezas\Trabajando\RompecabezaN2016Consola\obj\Debug\RompecabezaN2016Consola.csprojResolveAssemblyReference.cache
